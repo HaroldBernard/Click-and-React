@@ -1,33 +1,40 @@
-.App {
+.card, .image-container, img {
+  height: 20vh;
+}
+.jumbotron {
+  font-size: 28px;
+  background-image: url("https://cdn4.vectorstock.com/i/1000x1000/55/33/milk-chocolate-package-blank-for-advertizing-vector-16855533.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-position-y: -160px;
+  margin: 0px
+}
+
+footer {
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:34px;
+  width:100%;
+  color: #603022;
+  font-size: 12px;
   text-align: center;
+  background: #e7e8ec;
+  border-top: 8px solid #603022
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+a, li {
+  color: #603022
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.cube {
+  animation: cube 15s linear infinite;
+  height: 100px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@keyframes cube{
+  0%{
+    transform: translate3d(-900px, 0, 0);
   }
-  to {
-    transform: rotate(360deg);
+  100%{
+    transform: translate3d(1500px, 0, 0);
   }
 }

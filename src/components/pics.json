@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://target.scene7.com/is/image/Target/GUEST_8412b329-1f5b-473b-8641-45291b4794fd?wid=488&hei=488&fmt=pjpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://mobileimages.lowes.com/product/converted/040000/040000001027.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51pBqYdiEcL._SY355_.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "http://cdn.shopify.com/s/files/1/0004/8132/9204/products/big-hunk-candy-bar_1_1024x1024.jpg?v=1522355532",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://www.cvs.com/bizcontent/merchandising/productimages/large/28000131708.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i5.walmartimages.com/asr/04ddaca7-661d-42a1-a705-e9be7416015c_1.7eca74bb436721f93b7eb26a10afd5ff.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.economycandy.com/wp-content/uploads/2018/03/Kit-Kat-Milk-Chocolate.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "http://cdn.shopify.com/s/files/1/0972/7116/products/all-city-candy-100-grand-candy-bar-15-oz-candy-bars-nestle-1-bar-316947_600x.jpg?v=1557248976",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.hersheys.com/is/image/content/dam/smartlabelproductsimage/mounds/00034000000319-0011.png?wid=570&hei=570&fmt=png-alpha",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://target.scene7.com/is/image/Target/GUEST_4662b911-9f99-48ec-a2af-79c6855bb3d2?wid=488&hei=488&fmt=pjpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "http://www.fundraising.com/Content/external/products/74.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "http://couponkarma.com/wp-content/uploads/2018/11/milkyway.jpg",
+    "clicked": false
+  }
+]

@@ -1,14 +1,14 @@
 import React from "react";
+import '../App.css';
+
 
 const Pics = props => (
   <div 
-    className="card" 
+    className="card col-3" 
     value={props.id} 
     onClick={() => props.handleClick(props.id)}
   >
-    <div className="img-container">
-      <img alt={props.name} src={props.image} />
-    </div>
+    <img alt={props.name} src={props.image} />
   </div>
 );
 

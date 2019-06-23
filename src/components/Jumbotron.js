@@ -1,8 +1,10 @@
 import React from "react";
+import '../App.css';
 
-function Jumbotron(props) {
-    return <h1 className="jumbotron">{props.children}</h1>;
-  }
+
+const Jumbotron = props => (
+ <h1 className="jumbotron">{props.children}</h1>
+);
   
   export default Jumbotron;
   
