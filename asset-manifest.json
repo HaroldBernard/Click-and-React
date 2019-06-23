@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HaroldBernard/click-and-react/static/css/main.94cb6244.chunk.css",
-    "main.js": "/HaroldBernard/click-and-react/static/js/main.019d0039.chunk.js",
-    "main.js.map": "/HaroldBernard/click-and-react/static/js/main.019d0039.chunk.js.map",
-    "runtime~main.js": "/HaroldBernard/click-and-react/static/js/runtime~main.44cea17c.js",
-    "runtime~main.js.map": "/HaroldBernard/click-and-react/static/js/runtime~main.44cea17c.js.map",
-    "static/js/2.7180d8fa.chunk.js": "/HaroldBernard/click-and-react/static/js/2.7180d8fa.chunk.js",
-    "static/js/2.7180d8fa.chunk.js.map": "/HaroldBernard/click-and-react/static/js/2.7180d8fa.chunk.js.map",
-    "index.html": "/HaroldBernard/click-and-react/index.html",
-    "precache-manifest.ec6cfb8ddb20f615e90552ad08756243.js": "/HaroldBernard/click-and-react/precache-manifest.ec6cfb8ddb20f615e90552ad08756243.js",
-    "service-worker.js": "/HaroldBernard/click-and-react/service-worker.js",
-    "static/css/main.94cb6244.chunk.css.map": "/HaroldBernard/click-and-react/static/css/main.94cb6244.chunk.css.map"
+    "main.css": "/click-and-react/static/css/main.94cb6244.chunk.css",
+    "main.js": "/click-and-react/static/js/main.950d9cad.chunk.js",
+    "main.js.map": "/click-and-react/static/js/main.950d9cad.chunk.js.map",
+    "runtime~main.js": "/click-and-react/static/js/runtime~main.bdb133bc.js",
+    "runtime~main.js.map": "/click-and-react/static/js/runtime~main.bdb133bc.js.map",
+    "static/js/2.7180d8fa.chunk.js": "/click-and-react/static/js/2.7180d8fa.chunk.js",
+    "static/js/2.7180d8fa.chunk.js.map": "/click-and-react/static/js/2.7180d8fa.chunk.js.map",
+    "index.html": "/click-and-react/index.html",
+    "precache-manifest.4864b8cdaf0a8e74c4dae7ce54fc86f7.js": "/click-and-react/precache-manifest.4864b8cdaf0a8e74c4dae7ce54fc86f7.js",
+    "service-worker.js": "/click-and-react/service-worker.js",
+    "static/css/main.94cb6244.chunk.css.map": "/click-and-react/static/css/main.94cb6244.chunk.css.map"
   }
 }
